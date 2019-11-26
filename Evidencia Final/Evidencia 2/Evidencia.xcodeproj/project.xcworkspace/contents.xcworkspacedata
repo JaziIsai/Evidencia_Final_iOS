@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../FIG-removebg-preview.png">
+   </FileRef>
+   <FileRef
+      location = "group:../../MAPA2.png">
+   </FileRef>
+   <FileRef
+      location = "group:../../FIG.png">
+   </FileRef>
+   <FileRef
+      location = "group:../../MAPA1.png">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
